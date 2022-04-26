@@ -1,0 +1,20 @@
+{
+  "name": "async-landing",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/platzi/async-landing.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/platzi/async-landing/issues"
+  },
+  "homepage": "https://github.com/platzi/async-landing#readme"
+}
